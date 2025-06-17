@@ -1,0 +1,4 @@
+name,email,vaccinated
+Alice,alice@example.com,Yes
+Bob,bob@example.com,No
+Carol,carol@example.com,Yes
